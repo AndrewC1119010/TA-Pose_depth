@@ -9,7 +9,7 @@
 ```sh
 $ cd darknet
 ```
-5. Jalankan progrma deteksi pose dengan command
+5. Jalankan program deteksi pose dengan command
 ```sh
 $ python3 realsense-inference.py
 ```
