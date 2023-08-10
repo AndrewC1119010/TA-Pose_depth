@@ -1,6 +1,6 @@
 # Setup Jetson
 1. Hubungkan Jetson dengan kamera Realsense pada usb PORT 3.0
-2. HUbungkan Jetson dengan internet melalui dongle wifi atau ethernet
+2. Hubungkan Jetson dengan internet melalui dongle wifi atau ethernet
 
 # Menjalanakn sistem Deteksi Pose
 1. Login dengan menggunakan password : pcu123
